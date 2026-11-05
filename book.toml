@@ -1,0 +1,23 @@
+[book]
+title = "C Başvuru Kitabı"
+description = "Türkçe, başlangıçtan ileri seviyeye kapsamlı C programlama başvurusu"
+authors = ["C Başvuru Katkımcıları"]
+language = "tr"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/mfguney/c-basvuru"
+edit-url-template = "https://github.com/mfguney/c-basvuru/edit/main/{path}"
+site-url = "/c-basvuru/"
+additional-css = ["theme/step-anim.css"]
+additional-js = ["theme/step-anim.js"]
+
+[output.html.fold]
+enable = true
+level = 1

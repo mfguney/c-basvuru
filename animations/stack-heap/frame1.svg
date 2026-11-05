@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" font-family="Segoe UI, sans-serif">
+  <rect width="520" height="260" fill="#f8fafc"/>
+  <text x="20" y="28" font-size="16" font-weight="700" fill="#0f172a">Ad1m 1  Stack çerçevesi</text>
+  <rect x="40" y="50" width="180" height="180" rx="6" fill="#e2e8f0" stroke="#475569"/>
+  <text x="70" y="78" font-size="14" font-weight="600">STACK</text>
+  <rect x="55" y="95" width="150" height="36" fill="#93c5fd" stroke="#1d4ed8"/>
+  <text x="70" y="118" font-size="12">main: argc, argv</text>
+  <rect x="55" y="140" width="150" height="36" fill="#bfdbfe" stroke="#1d4ed8"/>
+  <text x="70" y="163" font-size="12">yerel: int x = 3</text>
+  <rect x="280" y="50" width="200" height="180" rx="6" fill="#f1f5f9" stroke="#64748b" stroke-dasharray="6 4"/>
+  <text x="330" y="140" font-size="14" fill="#64748b">HEAP (bo_)</text>
+</svg>

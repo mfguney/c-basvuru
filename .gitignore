@@ -1,0 +1,17 @@
+﻿# mdBook
+book/
+# mdbook-mermaid generated (CI installs; keep stubs if present)
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+# Build artifacts
+target/
+*.o
+*.obj
+*.exe
+*.out
+build/
+cmake-build-*/

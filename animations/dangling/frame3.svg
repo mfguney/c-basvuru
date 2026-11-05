@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" font-family="Segoe UI, sans-serif">
+  <rect width="520" height="220" fill="#fef2f2"/>
+  <text x="20" y="28" font-size="15" font-weight="700">Use-after-free  3: s[0] okumak = UB</text>
+  <rect x="60" y="70" width="120" height="40" fill="#fca5a5" stroke="#991b1b"/>
+  <text x="75" y="95" font-size="12">s[0] ???</text>
+  <rect x="280" y="60" width="180" height="70" fill="#fecaca" stroke="#991b1b"/>
+  <text x="300" y="95" font-size="12">ba_ka tahsis / çöp</text>
+  <text x="160" y="180" font-size="13" fill="#991b1b" font-weight="600">Tan1ms1z davran1_ (undefined behavior)</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" font-family="Segoe UI, sans-serif">
+  <rect width="520" height="200" fill="#f0fdf4"/>
+  <text x="20" y="28" font-size="15" font-weight="700">realloc  yeni blok + kopya</text>
+  <rect x="40" y="60" width="40" height="40" fill="#cbd5e1" stroke="#64748b"/><rect x="85" y="60" width="40" height="40" fill="#cbd5e1" stroke="#64748b"/><rect x="130" y="60" width="40" height="40" fill="#cbd5e1" stroke="#64748b"/><rect x="175" y="60" width="40" height="40" fill="#cbd5e1" stroke="#64748b"/>
+  <text x="40" y="55" font-size="11" fill="#64748b">eski</text>
+  <rect x="40" y="130" width="40" height="40" fill="#4ade80" stroke="#166534"/><rect x="85" y="130" width="40" height="40" fill="#4ade80" stroke="#166534"/><rect x="130" y="130" width="40" height="40" fill="#4ade80" stroke="#166534"/><rect x="175" y="130" width="40" height="40" fill="#4ade80" stroke="#166534"/>
+  <rect x="220" y="130" width="40" height="40" fill="#bbf7d0" stroke="#166534" stroke-dasharray="3 2"/><rect x="265" y="130" width="40" height="40" fill="#bbf7d0" stroke="#166534" stroke-dasharray="3 2"/><rect x="310" y="130" width="40" height="40" fill="#bbf7d0" stroke="#166534" stroke-dasharray="3 2"/><rect x="355" y="130" width="40" height="40" fill="#bbf7d0" stroke="#166534" stroke-dasharray="3 2"/>
+  <text x="40" y="185" font-size="12">yeni cap=8 (adres dei_ebilir!)</text>
+</svg>
